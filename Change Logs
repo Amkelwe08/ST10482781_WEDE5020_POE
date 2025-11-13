@@ -1,1 +1,52 @@
+Changes I Made
 
+Part 1 – WEDE5020 (August 2025)
+05 August 2025 – Created the initial project folder with basic HTML structure (index.html, about.html, services.html, contact.html, enquiry.html).
+
+07 August 2025 – Linked a simple styles.css file for basic colours and layout.
+
+09 August 2025 – Added navigation bar across all pages with placeholder links for consistency.
+
+11 August 2025 – Inserted a simple enquiry form (name, email, message) without advanced styling.
+
+13 August 2025 – Drafted the first project proposal including organization overview, goals, recommended pages, and budget.
+
+Part 2 Improvements – WEDE5020 (September 2025)
+02 September 2025 – Introduced responsive design using CSS media queries for desktop, tablet, and mobile layouts.
+
+05 September 2025 – Applied Asipiko brand styling (gold, black, white, and blue colour scheme).
+
+08 September 2025 – Added service images (branding.jpg, webdesign.jpg, marketing.jpg) and descriptions to services.html.
+
+11 September 2025 – Created a new portfolio.html page showcasing sample design projects.
+
+14 September 2025 – Improved enquiry and contact forms for mobile usability with larger buttons and clearer labels.
+
+18 September 2025 – Updated the contact page with official business address, phone numbers, email, and a map image.
+
+20 September 2025 – Organized assets into images/ and css/ folders for a cleaner project structure.
+
+22 September 2025 – Completed documentation with an updated README.md including overview, Harvard-style references, and changelog.
+
+24 September 2025 – Added in-code comments to explain structure, functions, and responsive design choices.
+
+Part 3 – Enhancing Functionality and SEO (November 2025)
+01 November 2025 – Reviewed Part 2 feedback and created a new branch to start Part 3 upgrades.
+
+03 November 2025 – Implemented JavaScript interactivity including an accordion on services.html and client-side form validation.
+
+05 November 2025 – Added dynamic Google Map to contact.html using the Google Maps Embed API.
+
+07 November 2025 – Enhanced the enquiry form with JavaScript-based validation and success message.
+
+09 November 2025 – Added meta tags, title elements, and keywords to all pages for SEO optimization.
+
+11 November 2025 – Created and linked robots.txt and sitemap.xml to improve search engine crawlability.
+
+12 November 2025 – Improved page structure with consistent <h1>, <h2> hierarchy and descriptive alt attributes for images.
+
+13 November 2025 – Optimized styles.css for mobile, tablet, and desktop viewports ensuring full responsiveness.
+
+14 November 2025 – Updated README.md with SEO details, Harvard-style references, and final changelog entries.
+
+15 November 2025 – Conducted final testing, validated HTML/CSS/JS, and prepared submission package ST10482781_WEDE5020_POE.zip.
